@@ -1,13 +1,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://gist.githubusercontent.com/rafaeltab/3fb9af2d188e761e7a90a69b8a850614/raw/1281563602b0ef2a015ecb775251404997eb1f19/learn_practice_inspire_dark.svg"
+    srcset="https://gist.githubusercontent.com/rafaeltab/3fb9af2d188e761e7a90a69b8a850614/raw/621f67592b1528a1f279e73c4fcf91b3cb6dfff8/learn_practice_inspire_dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://gist.githubusercontent.com/rafaeltab/6307726ddb0cd5cf0749032c848261fd/raw/270586e118aadddc53e866315f7a5cf9b87b27d7/learn_practice_inspire_light.svg"
+    srcset="https://gist.githubusercontent.com/rafaeltab/6307726ddb0cd5cf0749032c848261fd/raw/44a23fd8fb06dd2b2738ba6371776ae2db20ff7c/learn_practice_inspire_light.svg"
   />
-  <img alt="Learn;Practice;Inspire;" src="https://gist.githubusercontent.com/rafaeltab/6307726ddb0cd5cf0749032c848261fd/raw/270586e118aadddc53e866315f7a5cf9b87b27d7/learn_practice_inspire_light.svg" />
+  <img alt="Learn;Practice;Inspire;" src="https://gist.githubusercontent.com/rafaeltab/6307726ddb0cd5cf0749032c848261fd/raw/44a23fd8fb06dd2b2738ba6371776ae2db20ff7c/learn_practice_inspire_light.svg" />
 </picture>
 
 ## Software Engineer | Developer Experience Advocate | Open Source Enthusiast
